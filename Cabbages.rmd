@@ -40,6 +40,8 @@ I am explaining how much Vitamin C content, a numberical method,is present based
 boxplot(VitC~Cult,data=veggy)
 ```
 
+It appears that cultivation category c39 presents lower vitamin c content than cultivation method c52. The boxplot shows a score for c39 lower median score for cultivation c52.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
