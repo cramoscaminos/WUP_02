@@ -58,8 +58,11 @@ It appears that there is no significant difference in the median values between 
 t.test(VitC~Cult,data=veggy)
 ```
 
-The PValue is .00000003405  
+The PValue is .00000003405 based on this minut number there is certain way of determining that the cultivation method affects the amount of vitamin c content  
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+I reject the $H_0$ null hypotheses
+
