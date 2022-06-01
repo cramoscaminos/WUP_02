@@ -44,7 +44,11 @@ It appears that cultivation category c39 presents lower vitamin c content than c
 
 ### Numerical Descriptive Results
 
-<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->  
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
 
 ## Inferential Results
 
