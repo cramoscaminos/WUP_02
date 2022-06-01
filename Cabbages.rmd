@@ -48,7 +48,7 @@ It appears that cultivation category c39 presents lower vitamin c content than c
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
-
+It appears that there is no significant difference in the median values between c39 and C52. 
 
 ## Inferential Results
 
