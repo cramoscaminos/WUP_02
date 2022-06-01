@@ -21,9 +21,10 @@ veggy <- cabbages
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 $H_0$: There is no difference in the average Vitamin C content based on cultivation methods c39 and c52   
-$H_A$: There is a difference between Vitamin C content based on cultivation methods c39 and c52   
-# Methods
+$H_A$: There is a difference between Vitamin C content based on cultivation methods c39 and c52. 
 
+# Methods.     
+I am explaining how much Vitamin C content, a numberical method,is present based on cultivation methods, a categorical method.    
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 # Results
@@ -34,8 +35,10 @@ $H_A$: There is a difference between Vitamin C content based on cultivation meth
 
 ### Graphical Descriptive Results
 
-<!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
-
+<!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!--> 
+ ```{r}
+boxplot(VitC~Cult,data=veggy)
+```
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
