@@ -23,10 +23,10 @@ veggy <- cabbages
 $H_0$: There is no difference in the average Vitamin C content based on cultivation methods c39 and c52   
 $H_A$: There is a difference between Vitamin C content based on cultivation methods c39 and c52. 
 
-# Methods.     
-I am explaining how much Vitamin C content, a numberical method,is present based on cultivation methods, a categorical method.    
-<!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+# Methods       
+<!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->  
 
+I am explaining how much Vitamin C content, a numerical method,is present based on cultivation methods, a categorical method. 
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
