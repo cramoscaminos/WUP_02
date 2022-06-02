@@ -17,7 +17,7 @@ veggy <- cabbages
 # Introduction 
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
- The cabbages data from the MASS package is loaded into a dataframe called veggy. Complete this report by answering the following two questions  
+The cabbages data from the MASS package is loaded into a dataframe called veggy. Complete this report by answering the following two questions  
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 $H_0$: There is no difference in the average Vitamin C content based on cultivation methods c39 and c52   
@@ -26,7 +26,8 @@ $H_A$: There is a difference between Vitamin C content based on cultivation meth
 # Methods       
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->  
 
-I am explaining how much Vitamin C content, a numerical method,is present based on cultivation methods, a categorical method. 
+We are using the T test to compare the mean of the Numeriacal data and categorical data. I am explaining how much Vitamin C content, a numerical method, is present based on cultivation methods, a categorical method.  
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
