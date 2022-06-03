@@ -49,7 +49,7 @@ It appears that cultivation category c39 presents lower vitamin c content than c
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
-It appears that there is no significant difference in the median values between c39 and C52. 
+The mean for cultivation method c39 is 51.5 the median is 51.0. While the mean for cultivation method c52 is 64.4 with a median of 64.5. It appears that C52 cultivation method produced higher vitamin c content.  
 
 ## Inferential Results
 
