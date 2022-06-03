@@ -59,11 +59,11 @@ The mean for cultivation method c39 is 51.5 the median is 51.0. While the mean f
 t.test(VitC~Cult,data=veggy)
 ```
 
-The P Value is .00000003405 based on this small number there is no certain way of determining that the cultivation method affects the amount of vitamin c content  
+The P Value is 0.00000003405 based on this small number there is no certain way of determining that the cultivation method affects the amount of vitamin c content  
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-I reject the $H_0$ null hypotheses
+I reject the $H_0$ null hypothesis. Based on the results of the T test for both cultivation method C39 with a mean of 51.5 and c52 with a mean of 64.4. The P Value being .00000003405.
 
